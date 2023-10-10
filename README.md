@@ -1,2 +1,1 @@
 # SparkBulkLoader
-Architecture
